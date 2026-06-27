@@ -18,17 +18,17 @@ Custom flight computer for amature rockets, code named Zeus. This FC records fli
 
 ## Hardware Overview
 
-- Check out my system diagrams: [System Drawings](./System Drawings)
+- Check out my system diagrams: [System Drawings](./System%20Drawings)
     - Explains architecture at a top level overview
 - Key components table (MCU, IMU, barometer, flash, SD, pyro MOSFETs, power management)
-- Link to schematic/PCB files (`Zeus_FC_PCB`)
+- Link to schematic/PCB files [Zeus_FC_PCB](./Zeus_FC_PCB)
 
 ## PCB
 
 <img width="1396" height="907" alt="image" src="https://github.com/user-attachments/assets/47f5aabe-4733-4167-9e65-f5c129103ef9" />
 
 - Stackup summary (4-layer: signal / GND / 3.3V / signal)
-- Check out other photos (`PCB Photos`)
+- Check out other photos [PCB Photos](./PCB%20Photos)
 - Note: working on finding smaller SMD type IRFZ44N mosfets because these are ugly
 
 ## Protoboard Prototype
