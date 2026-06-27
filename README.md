@@ -18,7 +18,7 @@ Custom flight computer for amature rockets, code named Zeus. This FC records fli
 
 ## Hardware Overview
 
-- Check out my system diagrams: (`System Drawings`)
+- Check out my system diagrams: [System Drawings](./System Drawings)
     - Explains architecture at a top level overview
 - Key components table (MCU, IMU, barometer, flash, SD, pyro MOSFETs, power management)
 - Link to schematic/PCB files (`Zeus_FC_PCB`)
