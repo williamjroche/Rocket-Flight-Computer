@@ -81,6 +81,12 @@ If you want to make your own prototype, you'll need the following materials:
 - Flux to make soldering easier
 - Multimeter to test electrical connections (not needed but helpful)
 
+## My Prototype: 
+
+<img width="428" height="571" alt="IMG_6008" src="https://github.com/user-attachments/assets/3d0b9d8d-af38-4b0d-8d92-8a13eea684b1" />
+
+Here is a demo video of the working prototype: https://youtube.com/shorts/D4aav9IAWUg?si=ib71gM45oc4MuGbN
+
 ## Safety Notes
 
 - Arm switch behavior
