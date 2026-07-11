@@ -91,11 +91,10 @@ At the moment only the IMU is programmed, I need to work on the barometer sensor
 
 ## Safety Notes
 
-- Arm switch behavior
-- Continuity check before firing
-- Handling precautions around pyro circuit
+- Be careful handling pyro charges!
+      - I am not responible for any accidents.
 
 ## Acknowledgments
 
 - Link to drone flight controller project: https://github.com/williamjroche/Autonomous_drone/tree/main
-    - Dual Power Supply PCB is the 11.1v to 3.3v converter I am using on this project. The explaination under this other repo readme will help clear up any   confusion.
+    - Dual Power Supply PCB is the 12v to 3.3v converter I am using on this project. The explaination under this other repo readme will help clear up any   confusion.
