@@ -83,9 +83,11 @@ If you want to make your own prototype, you'll need the following materials:
 
 ## My Prototype: 
 
-<img width="428" height="571" alt="IMG_6008" src="https://github.com/user-attachments/assets/3d0b9d8d-af38-4b0d-8d92-8a13eea684b1" />
+<img width="5712" height="4284" alt="IMG_6008" src="https://github.com/user-attachments/assets/29b842ca-36bf-4949-b291-587b7689d91e" />
 
 Here is a demo video of the working prototype: https://youtube.com/shorts/D4aav9IAWUg?si=ib71gM45oc4MuGbN
+
+Note: At the moment only the IMU is programmed, I need to work on the barometer sensor and apogee detection + saving data to micro SD card.
 
 ## Safety Notes
 
