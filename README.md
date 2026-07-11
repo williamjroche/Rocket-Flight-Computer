@@ -87,7 +87,7 @@ If you want to make your own prototype, you'll need the following materials:
 
 Here is a demo video of the working prototype: https://youtube.com/shorts/D4aav9IAWUg?si=ib71gM45oc4MuGbN
 
-Note: At the moment only the IMU is programmed, I need to work on the barometer sensor and apogee detection + saving data to micro SD card.
+At the moment only the IMU is programmed, I need to work on the barometer sensor and apogee detection + saving data to micro SD card. You can see in the video I am using my custom dual power PCB I designed which is converting the 12v from the battery to a usable 3.3v for our sensors and Pico 2W. The switch you see is me prototyping a power switch.
 
 ## Safety Notes
 
